@@ -1,4 +1,5 @@
 # sagemaker_ML
+To test the sagemaker for ML model
 
 Using Amazon sagemaker for classification task of Loan prediction for online hackathon problem.
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
